@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MilosV-01.github.io/react-todo/static/css/main.8221f084.css",
+    "main.js": "/MilosV-01.github.io/react-todo/static/js/main.895ff446.js",
+    "index.html": "/MilosV-01.github.io/react-todo/index.html",
+    "main.8221f084.css.map": "/MilosV-01.github.io/react-todo/static/css/main.8221f084.css.map",
+    "main.895ff446.js.map": "/MilosV-01.github.io/react-todo/static/js/main.895ff446.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8221f084.css",
+    "static/js/main.895ff446.js"
+  ]
+}
